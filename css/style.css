@@ -46,6 +46,8 @@ a {
 
 .header__link {
     margin-right: 50px;
+    color: red;
+    font-size: 13px;
 }
 
 .header__line {
